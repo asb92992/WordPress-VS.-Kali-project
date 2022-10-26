@@ -21,6 +21,7 @@ Affected source code:
 2) XSS vulnerability in Page's Edit-page
 - Adding scipt to the title of the page can lead to a xss vulnerablility. The scirpt does not show up on the blog page but it shows the alert
 
+Summary:
 - Tested Version: 4.2 
 - Fixed Version: 4.7.1
 
